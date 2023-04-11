@@ -9,7 +9,7 @@
     <br />
     <a href="https://markisak-fe.vercel.app">View Demo</a>
     ·
-    <a href="https://markisak-be-production-ddec.up.railway.app">Api Demo</a>
+    <a href="https://tired-plum-sari.cyclic.app/">Api Demo</a>
   </p>
 </p>
 

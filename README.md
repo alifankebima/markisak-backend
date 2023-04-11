@@ -5,7 +5,7 @@
   </div>
   <h3 align="center">Markisak (Recipe App)</h3>
   <p align="center">
-    <a href="https://github.com/ikkair/markisak-be"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alifankebima/markisak-backend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://markisak-fe.vercel.app">View Demo</a>
     ·
@@ -52,13 +52,13 @@ Follow this steps to run the server locally :
 1. Clone this repository
 
 ```sh
-git clone https://github.com/ikkair/markisak-be
+git clone https://github.com/alifankebima/markisak-backend
 ```
 
-2. Change directory to markisak-be
+2. Change directory to markisak-backend
 
 ```sh
-cd markisak-be
+cd markisak-backend
 ```
 
 3. Install all of the required modules
@@ -108,9 +108,9 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Backend Markisak`](https://github.com/ikkair/markisak-be)
+:rocket: [`Backend Markisak`](https://github.com/alifankebima/markisak-backend)
 
-:rocket: [`Frontend Markisak`](https://github.com/ikkair/markisak-fe)
+:rocket: [`Frontend Markisak`](https://github.com/alifankebima/markisak-frontend)
 
 :rocket: [`Demo Markisak`](https://markisak-fe.vercel.app/)
 
